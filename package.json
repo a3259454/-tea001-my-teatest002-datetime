@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a3259454/-tea001-my-teatest002-datetime"
+}
   "author": "",
   "license": "ISC",
   "dependencies": {
