@@ -1,6 +1,6 @@
 {
   "name": "@tea001/my-teatest002-datetime",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,10 +9,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/a3259454/-tea001-my-teatest002-datetime"
-},
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@tea001/my-teatest002-datetime": "^1.0.0"
+    "@tea001/my-teatest002-datetime": "^1.0.0",
+    "my-teatest001-datetime": "^1.1.1"
   }
 }
