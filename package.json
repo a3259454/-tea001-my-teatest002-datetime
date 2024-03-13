@@ -1,23 +1,19 @@
 {
-  "name": "my-teatest001-datetime",
-  "version": "1.1.2",
-  "description": "just a test",
+  "name": "@tea001/my-teatest002-datetime",
+  "version": "1.0.5",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kkwo113/my-teatest001-datetime"
+    "url": "https://github.com/a3259454/-tea001-my-teatest002-datetime"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@tea001/my-teatest002-datetime": "^1.0.0",
-    "atomicals-js-master": "^0.1.48",
-    "evm-query-example": "^1.1.0",
-    "evm-wallet-example-2": "^1.0.1",
-    "ierc-miner-js": "^1.1.0",
-    "tea-demo-one": "^1.0.1"
+    "my-teatest001-datetime": "^1.1.1"
   }
 }
